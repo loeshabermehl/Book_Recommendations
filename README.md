@@ -1,0 +1,2 @@
+# Book_Recommendations
+For the Master's course Text and Multimedia Mining I created a book recommendation system that gives a list of book recommendations, based on the similarity in writing styles between the author of a given book that one likes and the authors of the books from the database of Project Gutenberg. The similarity between books is measured by means of features of Authorship Attribution (AA) methods.
